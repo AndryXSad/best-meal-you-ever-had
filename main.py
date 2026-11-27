@@ -7,6 +7,13 @@ local head-to-head tournament over fresh candidate sentences scored against
 the judge's published brief (on-subject, concreteness, personal truth, clean
 fresh wording, a landing image that stays). No network, no input, no
 randomness: the same sentence on every run, so the two grading runs agree.
+
+Revision note (2026-11-27): the sentence itself is unchanged since the
+first commit — only this documentation was added. The wording was picked
+because the local tournament's winner stood out on personal truth: an
+explicit first-time memory ("my first durian") rather than a scene that
+could belong to anyone, and a field the 171 visible submissions left
+empty (durian: 0 mentions, against grandmother 27 and rendang 23).
 """
 
 import os
